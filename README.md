@@ -72,5 +72,5 @@ This repository contains a pipeline for video tracklet extraction and vehicle re
 
 - Ensure that all scripts and dependencies are correctly configured before running the pipeline.
 - Verify the output directories and files to ensure the pipeline has executed as expected.
-
-
+- you can download pretrained models from this link https://drive.google.com/drive/folders/1Y3TNH2bFjCs15LTdCziIqvcTTaAIFLdv?usp=sharing , where we trained for 7 different types of vehicle class (‘Cars’, ‘Bus’,
+‘Truck’, ‘Three-Wheeler’, ‘Two-Wheeler’, ‘LCV’, and ‘Bicycle’).
