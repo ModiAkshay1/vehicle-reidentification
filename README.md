@@ -73,5 +73,4 @@ This repository contains a pipeline for video tracklet extraction and vehicle re
 - Ensure that all scripts and dependencies are correctly configured before running the pipeline.
 - Verify the output directories and files to ensure the pipeline has executed as expected.
 
-For any issues or questions, please refer to the documentation or contact the project maintainers.
 
